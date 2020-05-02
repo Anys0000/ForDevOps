@@ -1,3 +1,6 @@
-hello world
+hello worl
+
+new string
 x!:
+:x!
 
